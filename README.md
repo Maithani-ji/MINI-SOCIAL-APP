@@ -22,7 +22,7 @@ A mobile-first **React Native (Expo)** feature module that simulates a basic soc
 
 ## 🚀 Live Demo on Expo
 
-Try it instantly via **Expo Go app**:
+Try it instantly via **Expo Go app** after logging in to Expo dev account.
 
 🔗 [**Preview Link**](https://expo.dev/accounts/maithaniji/projects/mini-social-app/updates/173d574e-82d5-4b91-92c5-d5342cdc60d7)
 
@@ -45,10 +45,7 @@ Try it instantly via **Expo Go app**:
 .
 ├── App.js
 ├── AppNavigator.js
-├── assets/
-│   ├── coin.png
-│   ├── connect.png
-│   └── snake.png
+├── assets
 ├── components/
 │   ├── GameCard.js
 │   └── TransactionItem.js
@@ -70,6 +67,8 @@ Try it instantly via **Expo Go app**:
 > Requires Node.js + Expo CLI
 
 ```bash
+brew install node
+npm install -g expo-cli
 git clone https://github.com/Maithani-ji/MINI-SOCIAL-APP.git
 cd MINI-SOCIAL-APP
 npm install
