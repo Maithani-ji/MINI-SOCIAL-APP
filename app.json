@@ -24,6 +24,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "86e3d542-01db-4382-802e-c8f07e849ad1"
+      }
+    },
+    "owner": "maithaniji",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/86e3d542-01db-4382-802e-c8f07e849ad1"
     }
   }
 }
