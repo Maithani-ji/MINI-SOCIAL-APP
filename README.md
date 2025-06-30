@@ -80,26 +80,10 @@ Then scan the QR code using **Expo Go** (Android/iOS).
 
 ---
 
-## 📦 Build (Optional)
-
-To generate a `.apk`:
-
-```bash
-npx eas build --platform android
-```
-
----
-
 ## 👤 Author
 
 Built with ❤️ by **Tushar Maithani**  
 [GitHub → @Maithani-ji](https://github.com/Maithani-ji)
-
----
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
@@ -111,11 +95,6 @@ This project is licensed under the [MIT License](LICENSE).
 - [x] Responsive UI and Expo-ready  
 - [x] GitHub + Live demo link ready to share  
 
----
 
-## 🟡 What You Could Add Later
 
-- Login/auth (Firebase or Supabase)  
-- Real multiplayer or API integration  
-- Game graphics & animations  
-- Leaderboards or tournament screen  
+
